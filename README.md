@@ -1,1 +1,1 @@
-# Flight-Price-Prediction-Modal
+# Flight-Price-Prediction-Model
